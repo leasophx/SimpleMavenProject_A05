@@ -1,6 +1,15 @@
 package de.hfu;
 import java.util.Scanner;
 
+
+/**
+ * Dieses Projekt ist ein Beispielprojekt (Maven).
+ * Das Ziel ist die Umwandlung des eingegebenen Texts in Grossbuchstaben.
+ * Aufgabenblatt05-OSSE
+ * @author LeaSophie
+ * @version 1.0
+ */
+
 public class Main {
     public static void main( String[] args )
     {
