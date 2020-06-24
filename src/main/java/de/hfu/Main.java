@@ -1,5 +1,8 @@
 package de.hfu;
+
+
 import java.util.Scanner;
+
 
 
 /**
@@ -21,5 +24,19 @@ public class Main {
         System.out.print("Ihr eingegebener Text in Großbuchstaben war: ");
         System.out.print(text.toUpperCase());
         System.out.println();
+        
+        
+        
+      
+        
     }
+    
+    
+   
+    
+    
+       
+    
+   
+    
 }
